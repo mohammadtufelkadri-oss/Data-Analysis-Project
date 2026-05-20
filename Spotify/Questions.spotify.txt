@@ -1,0 +1,75 @@
+Questions:
+
+
+Basic level
+
+
+1. Find all the distinct album names.
+
+2. Who is the artist of song 'Never Seen the Rain'?
+
+3. Name all the user & email, who have registered with gmail id.
+
+4. List the name of users along with registration dates, who have registered after April-22.
+
+5. Extract the name of tracks, artists, albums and release dates for tracks released in year 2017
+
+6. Find the details of the users who have registed in between may and august.
+
+7. Count the number of playlists created by each user.
+
+8. Find the track names and their durations for a specific album in the Tracks table.
+
+9. Calculate the average duration of tracks in the Tracks table.
+
+10. How many users have registered with yahoo.com id?
+
+
+Intermediate level
+
+
+1. Find the playlist names and the number of tracks in each playlist created by users whose email addresses end with '@gmail.com'.
+
+2. Write a query to retrieve the usernames and email addresses of users who have created playlists with more than 5 tracks and an average track duration greater than 200 seconds.
+
+3. Find the track and artist names of the tracks that have a duration greater than the average duration of all tracks in the 'Tracks' table.
+
+4. Find the users who have created playlists with tracks from all albums released in a specific year.
+
+5. Name of playlist and their total durations, sorted by the number of tracks in descending order.
+
+6. Find the playlists that have tracks with a duration longer than the average duration of all tracks.
+
+7. Find the top 3 playlists with the most tracks.
+
+8. Calculate the average track duration for each user and display the results in descending order.
+
+9. Find the track names and artist names of the tracks that are included in at least two different playlists.
+
+10. Find the playlist names and the total duration of each playlist. Include only the playlists created by users who registered in the year 2022.
+
+
+
+Advanced level
+
+
+1. Find the track names and artist names of the tracks that are included in playlists created by users who registered before the average registration date of all users.
+
+2. Use subquery to retrieve the names of users who have created playlists containing tracks from both the album 'After Hours' by The Weeknd and the album 'When We All Fall Asleep, Where Do We Go?' by Billie Eilish.
+
+3. Write a SQL query to extract the name of top 3 users with the highest average track duration for their playlists.
+
+4. Find the tracks that have a duration greater than the average duration of all tracks and rank them within their respective albums.
+
+5. Name the playlists along with the total number of tracks and the rank of the playlist based on the number of tracks.
+
+6. Find the users who have created playlists with the highest number of tracks from a specific artist.
+
+7. Write a SQL query to retrieve the topmost users who have created playlists with the highest number of unique tracks from a specific artist.
+
+8. Find the tracks that have a duration greater than the average duration of all tracks in their respective albums.
+
+9. Find name of the playlists along with the user who created them, sorted by the number of tracks in descending order and the username in ascending order.
+
+10. Write a SQL query to retrieve the playlists along with the user who created them, and the position of the track with the longest duration within each playlist.
+
