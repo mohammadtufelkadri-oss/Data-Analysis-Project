@@ -1,0 +1,1 @@
+This project focuses on crop production and climate data analysis using Python, SQL, and Tableau. It includes data cleaning, exploratory , SQL-based analysis, and interactive dashboards to identify insights related to crop production, rainfall, temperature, fertilizer usage, and agricultural trends.
