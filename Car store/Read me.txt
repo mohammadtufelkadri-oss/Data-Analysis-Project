@@ -1,0 +1,1 @@
+This project focuses on vehicle sales data analysis using Python and Tableau. It includes data cleaning, exploratory data analysis (EDA), data visualization, and interactive dashboards to identify trends in selling price, fuel type, transmission, and vehicle performance.
